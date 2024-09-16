@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Hestia",
+        "last_name": "Guillard",
+        "email": "hguillard0@census.gov",
+        "gender": "Female"
+    },
+    {
+        "id": 2,
+        "first_name": "Pammie",
+        "last_name": "Trask",
+        "email": "ptrask1@gizmodo.com",
+        "gender": "Female"
+    },
+    {
+        "id": 3,
+        "first_name": "Xenia",
+        "last_name": "O'Henery",
+        "email": "xohenery2@lycos.com",
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "first_name": "Gayle",
+        "last_name": "Ricart",
+        "email": "gricart3@thetimes.co.uk",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Brandea",
+        "last_name": "Roderick",
+        "email": "broderick4@va.gov",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Stern",
+        "last_name": "Durden",
+        "email": "sdurden5@springer.com",
+        "gender": "Male"
+    },
+    {
+        "id": 7,
+        "first_name": "Ashlen",
+        "last_name": "Rubinow",
+        "email": "arubinow6@taobao.com",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Olivie",
+        "last_name": "Glasspool",
+        "email": "oglasspool7@google.com",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "first_name": "Corbin",
+        "last_name": "Lineham",
+        "email": "clineham8@bbb.org",
+        "gender": "Male"
+    },
+    {
+        "id": 10,
+        "first_name": "Vincent",
+        "last_name": "Natte",
+        "email": "vnatte9@istockphoto.com",
+        "gender": "Male"
+    }
+]
